@@ -63,6 +63,11 @@ Your submission should consist of the github link to your repository.  Your repo
 
 Please do __NOT__ include any of the project data sets provided in the `dogImages/` or `lfw/` folders.
 
+## Link to the blog:
+
+https://medium.com/@gunanksood1222/building-a-cnn-based-dog-breed-classifier-using-pytorch-9f783adfc736
+
+
 ### Ready to submit your project?
 
 Click on the "Submit Project" button in the classroom and follow the instructions to submit!
